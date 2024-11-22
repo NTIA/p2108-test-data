@@ -53,5 +53,3 @@ indicating data column names, and each subsequent row represents a single test c
 ## Contact ##
 
 For technical questions, contact <code@ntia.gov>.
-
--->
