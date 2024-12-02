@@ -14,7 +14,7 @@
 [doi-badge]: https://zenodo.org/badge/892826210.svg
 [doi-link]: https://zenodo.org/badge/latestdoi/892826210
 
-This repository contains a dataset used to test the NTIA/ITS implementation
+This repository contains a dataset used to test the NTIA/ITS implementations
 of Recommendation ITU-R P.2108.
 
 The software tested using this dataset can be found using the links below.
