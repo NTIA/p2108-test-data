@@ -3,6 +3,7 @@
 [![NTIA/ITS PropLib][proplib-badge]][proplib-link]
 [![GitHub Release][gh-releases-badge]][gh-releases-link]
 [![GitHub Issues][gh-issues-badge]][gh-issues-link]
+[![DOI][doi-badge]][doi-link]
 
 [proplib-badge]: https://img.shields.io/badge/PropLib-badge?label=%F0%9F%87%BA%F0%9F%87%B8%20NTIA%2FITS&labelColor=162E51&color=D63E04
 [proplib-link]: https://ntia.github.io/propagation-library-wiki
@@ -10,6 +11,8 @@
 [gh-releases-link]: https://github.com/NTIA/p2108-test-data/releases
 [gh-issues-badge]: https://img.shields.io/github/issues/NTIA/p2108-test-data?logo=github&label=Issues&labelColor=162E51
 [gh-issues-link]: https://github.com/NTIA/p2108-test-data/issues
+[doi-badge]: https://zenodo.org/badge/892826210.svg
+[doi-link]: https://zenodo.org/badge/latestdoi/892826210
 
 This repository contains a dataset used to test the NTIA/ITS implementation
 of Recommendation ITU-R P.2108.
