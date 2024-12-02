@@ -16,7 +16,7 @@
 <!-- TODO-TEMPLATE: Add badges. See above for details.
 [![GitHub Release][gh-releases-badge]][gh-releases-link]
 [![GitHub Issues][gh-issues-badge]][gh-issues-link]
-[![DOI][doi-badge][doi-link]]
+[![DOI][doi-badge]][doi-link]
 -->
 [proplib-badge]: https://img.shields.io/badge/PropLib-badge?label=%F0%9F%87%BA%F0%9F%87%B8%20NTIA%2FITS&labelColor=162E51&color=D63E04
 [proplib-link]: https://ntia.github.io/propagation-library-wiki
@@ -55,7 +55,7 @@ The software tested using this dataset can be found using the links below.
 - [NTIA/TODO-TEMPLATE-matlab](https://github.com/NTIA/TODO-TEMPLATE-matlab)
 - [NTIA/TODO-TEMPLATE-python](https://github.com/NTIA/TODO-TEMPLATE-python)
 
-## Disclaimer
+## Disclaimer ##
 
 This dataset is not intended for any usage other than running unit tests against
 the software in the repositories listed above. Data contained in this repository
@@ -63,7 +63,7 @@ should not be expected to reflect, for example, real-world radio propagation lin
 In some instances, intentionally invalid data are provided to ensure that errors
 are properly handled in the software under test.
 
-## Data Versioning
+## Data Versioning ###
 
 The version of this dataset is tracked with a simple, single-digit version number
 in the format `v1`. This version number indicates the software versions for which
@@ -71,7 +71,7 @@ this test dataset is valid. For example, `v1` of this repository contains the da
 used to test `v1.x` of the base C++ library, and `v1.x.y` of the .NET, MATLAB, and Python
 wrappers.
 
-## Dataset Contents
+## Dataset Contents ##
 
 TODO-TEMPLATE: Document each included data file or group of data files. Example provided
 below.
