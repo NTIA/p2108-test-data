@@ -63,7 +63,7 @@ should not be expected to reflect, for example, real-world radio propagation lin
 In some instances, intentionally invalid data are provided to ensure that errors
 are properly handled in the software under test.
 
-## Data Versioning ###
+## Data Versioning ##
 
 The version of this dataset is tracked with a simple, single-digit version number
 in the format `v1`. This version number indicates the software versions for which
