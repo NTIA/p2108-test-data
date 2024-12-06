@@ -15,7 +15,7 @@
 [doi-link]: https://zenodo.org/badge/latestdoi/892826210
 
 This repository contains a dataset used to test the NTIA/ITS implementations
-of Recommendation ITU-R P.2108.
+of Recommendation ITU-R P.2108 - Prediction of clutter loss.
 
 The software tested using this dataset can be found using the links below.
 
@@ -24,7 +24,7 @@ The software tested using this dataset can be found using the links below.
 - [NTIA/p2108-matlab](https://github.com/NTIA/p2108-matlab)
 - [NTIA/p2108-python](https://github.com/NTIA/p2108-python)
 
-## Disclaimer ##
+## Data Disclaimer ##
 
 This dataset is not intended for any usage other than running unit tests against
 the software in the repositories listed above. Data contained in this repository
@@ -37,7 +37,7 @@ are properly handled in the software under test.
 The version of this dataset is tracked with a simple, single-digit version number
 in the format `v1`. This version number indicates the software versions for which
 this test dataset is valid. For example, `v1` of this repository contains the dataset
-used to test `v1.x` of the base C++ library, and `v1.x.y` of the .NET, MATLAB, and Python
+used to test `v1.x` of the base C++ library, and `v1.x.y` of the .NET, MATLAB®, and Python®
 wrappers.
 
 ## Dataset Contents ##
@@ -53,6 +53,16 @@ indicating data column names, and each subsequent row represents a single test c
 - `AeronauticalStatisticalModelTestData.csv` contains sets of inputs and outputs used
   to test the operation of the `AeronauticalStatisticalModel` function.
 
+## License ##
+
+MATLAB is a registered trademark of The MathWorks, Inc. See <mathworks.com/trademarks> for a list of additional trademarks.
+
+"Python" and the Python logos are trademarks or registered trademarks of the Python Software Foundation, used by the National Telecommunications and Information Administration with permission from the Foundation.
+
 ## Contact ##
 
 For technical questions, contact <code@ntia.gov>.
+
+## Disclaimer ##
+
+Certain commercial equipment, instruments, or materials are identified in this project were used for the convenience of the developers. In no case does such identification imply recommendation or endorsement by the National Telecommunications and Information Administration, nor does it imply that the material or equipment identified is necessarily the best available for the purpose.
