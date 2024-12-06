@@ -59,6 +59,12 @@ MATLAB is a registered trademark of The MathWorks, Inc. See <mathworks.com/trade
 
 "Python" and the Python logos are trademarks or registered trademarks of the Python Software Foundation, used by the National Telecommunications and Information Administration with permission from the Foundation.
 
+## License ##
+
+MATLAB is a registered trademark of The MathWorks, Inc. See <mathworks.com/trademarks> for a list of additional trademarks.
+
+"Python" and the Python logos are trademarks or registered trademarks of the Python Software Foundation, used by the National Telecommunications and Information Administration with permission from the Foundation.
+
 ## Contact ##
 
 For technical questions, contact <code@ntia.gov>.
