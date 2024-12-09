@@ -17,7 +17,7 @@
 This repository contains a dataset used to test the NTIA/ITS implementations
 of Recommendation ITU-R P.2108 - Prediction of clutter loss.
 
-The software tested using this dataset can be found using the links below.
+The software tested with this dataset can be found using the links below.
 
 - [NTIA/p2108](https://github.com/NTIA/p2108)
 - [NTIA/p2108-dotnet](https://github.com/NTIA/p2108-dotnet)
@@ -26,25 +26,26 @@ The software tested using this dataset can be found using the links below.
 
 ## Data Disclaimer ##
 
-This dataset is not intended for any usage other than running unit tests against
+This dataset is not intended for any use other than running unit tests against
 the software in the repositories listed above. Data contained in this repository
 should not be expected to reflect, for example, real-world radio propagation links.
 In some instances, intentionally invalid data are provided to ensure that errors
 are properly handled in the software under test.
 
-## Data Versioning ##
+## Dataset Versioning ##
 
-The version of this dataset is tracked with a simple, single-digit version number
+The versioning of this dataset is tracked with a single-digit version number
 in the format `v1`. This version number indicates the software versions for which
 this test dataset is valid. For example, `v1` of this repository contains the dataset
-used to test `v1.x` of the base C++ library, and `v1.x.y` of the .NET, MATLAB®, and Python®
+used to test `v1.x` of the base C++ library and `v1.x.y` of the .NET, MATLAB®, and Python®
 wrappers.
 
 ## Dataset Contents ##
 
-Each of the CSV files in this repository contains a set of inputs and outputs
-for one of the functions in the tested software. Each file contains a header row
-indicating data column names, and each subsequent row represents a single test case.
+Each CSV file in this repository contains a set of inputs and outputs used to test
+the operation of one of the functions provided by the software under test.
+The header row of each file indicates the name of each data column, and each subsequent row
+represents a single test case.
 
 - `HeightGainTerminalCorrectionModelTestData.csv` contains sets of inputs and outputs used
   to test the operation of the `HeightGainTerminalCorrectionModel` function.
@@ -55,7 +56,8 @@ indicating data column names, and each subsequent row represents a single test c
 
 ## License ##
 
-MATLAB is a registered trademark of The MathWorks, Inc. See <mathworks.com/trademarks> for a list of additional trademarks.
+MATLAB is a registered trademark of The MathWorks, Inc. See
+[mathworks.com/trademarks](https://mathworks.com/trademarks) for a list of additional trademarks.
 
 "Python" and the Python logos are trademarks or registered trademarks of the Python Software Foundation, used by the National Telecommunications and Information Administration with permission from the Foundation.
 
