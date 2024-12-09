@@ -14,10 +14,10 @@ mark next to each attests that the criterion has been met.
     * [ ] The repository contains exclusively a README, data files, and related metadata files.
     * [ ] The repository structure and contents follow from the ITS PropLib template, and
     all template or placeholder code has been removed.
-3. [ ] The README.md file has passed editorial review by the ITS Publications Office.
-4. [ ] The project complies with the ITS Code Style Guide or an appropriate style
-guide as agreed to by the sponsor, project lead, or Supervising Division Chief.
-5. [ ] Approved disclaimer and licensing language has been included.
+2. [ ] The README.md file has passed editorial review by the ITS Publications Office.
+3. [ ] The project complies with the ITS Code Style Guide or an appropriate style
+uide as agreed to by the sponsor, project lead, or Supervising Division Chief.
+4. [ ] Approved disclaimer and licensing language has been included.
 
 In order to complete this approval, please create a new branch, upload and commit
 your version of this Markdown document to that branch, and then create a pull request
